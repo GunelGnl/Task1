@@ -1,0 +1,42 @@
+*   [33mcommit a107bf4cf582bc9a911ea9411a76d7655dee219a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 2a5dd0f c1da098
+[31m|[m [32m|[m Author: Gunel <kocharlig@gmail.com>
+[31m|[m [32m|[m Date:   Tue Mar 28 22:26:49 2023 +0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'Case2'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit c1da0987604b439d3f330fca1bfc1f8823326c62[m[33m ([m[1;32mCase2[m[33m)[m
+[31m|[m [32m|[m Author: Gunel <kocharlig@gmail.com>
+[31m|[m [32m|[m Date:   Tue Mar 28 22:25:30 2023 +0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Change branch Case2
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 2a5dd0f04ee1a193274b72b231f7bf32ce348c7c[m
+[32m|[m[32m/[m  Author: Gunel <kocharlig@gmail.com>
+[32m|[m   Date:   Tue Mar 28 22:26:34 2023 +0400
+[32m|[m   
+[32m|[m        Change Master
+[32m|[m 
+* [33mcommit 86f553eea3fca67cf43dc271fe5ca16c4baa4f59[m[33m ([m[1;32mcase3[m[33m, [m[1;32mcase1[m[33m)[m
+[32m|[m Author: Gunel <kocharlig@gmail.com>
+[32m|[m Date:   Tue Mar 28 21:51:57 2023 +0400
+[32m|[m 
+[32m|[m     Chapter 2
+[32m|[m 
+* [33mcommit 996b4e692ceba2c7a5838b8b4a11b4dce7b68f99[m
+[32m|[m Author: Gunel <kocharlig@gmail.com>
+[32m|[m Date:   Mon Mar 27 21:34:17 2023 +0400
+[32m|[m 
+[32m|[m     Bold
+[32m|[m 
+* [33mcommit 1b9109ea5d4a2a7d643965fd6b9d519cc21254fe[m
+[32m|[m Author: Gunel <kocharlig@gmail.com>
+[32m|[m Date:   Mon Mar 27 21:29:52 2023 +0400
+[32m|[m 
+[32m|[m     italics
+[32m|[m 
+* [33mcommit b4d773fb85575696bc18f6940261979cf044b8fa[m
+  Author: Gunel <kocharlig@gmail.com>
+  Date:   Sun Mar 26 00:45:04 2023 +0400
+  
+      Add a new line
